@@ -13,3 +13,12 @@ dependencies = [
     "scipy>=1.17.1",
     "streamlit>=1.55.0",
 ]
+
+[project.optional-dependencies]
+local = [
+    "pyaudio>=0.2.14",
+    "pyttsx3>=2.99",
+    "setuptools>=82.0.1",
+    "sounddevice>=0.5.5",
+    "webrtcvad>=2.0.10",
+]
