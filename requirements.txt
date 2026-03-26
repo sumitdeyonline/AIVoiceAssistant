@@ -1,12 +1,6 @@
-pyaudio
-webrtcvad
-sounddevice
 numpy
 scipy
 openai
 groq
 python-dotenv
-pyttsx3
-dotenv
-setuptools
 streamlit

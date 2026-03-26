@@ -1,0 +1,6 @@
+# Hardware-specific dependencies for local desktop execution
+pyaudio
+webrtcvad
+sounddevice
+pyttsx3
+setuptools
